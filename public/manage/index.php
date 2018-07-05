@@ -1,0 +1,10 @@
+<?php
+require_once('../../class_lib/Account.php');
+require_once('../../class_lib/AuditLog.php');
+require_once('../../class_lib/Calculate.php');
+require_once('../../class_lib/Crypt.php');
+require_once('../../class_lib/Database.php');
+require_once('../../class_lib/Form.php');
+require_once('../../class_lib/Session.php');
+require_once('../../class_lib/Transactions.php');
+require_once('../../class_lib/user.php');
